@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<project>
+  <fileVersion>2</fileVersion>
+  <fileChecksum>3712175426</fileChecksum>
+  <configuration>
+    <name>Debug</name>
+    <outputs>
+      <file>$PROJ_DIR$\main.c</file>
+      <file>$PROJ_DIR$\Platform_Types.h</file>
+      <file>$PROJ_DIR$\Port_PBcfg.c</file>
+      <file>$PROJ_DIR$\Port_Cfg.h</file>
+      <file>$PROJ_DIR$\Common_Macros.h</file>
+      <file>$PROJ_DIR$\Det.c</file>
+      <file>$PROJ_DIR$\Std_Types.h</file>
+      <file>$PROJ_DIR$\Port_PBcfg.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\Port_PBcfg.pbi</file>
+      <file>$PROJ_DIR$\Port.c</file>
+      <file>$PROJ_DIR$\Port.h</file>
+      <file>$PROJ_DIR$\Compiler.h</file>
+      <file>$PROJ_DIR$\Port_Regs.h</file>
+      <file>$PROJ_DIR$\tm4c123gh6pm_registers.h</file>
+      <file>$PROJ_DIR$\Det.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\main.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Threads.h</file>
+      <file>$PROJ_DIR$\Debug\Exe\c.out</file>
+      <file>$PROJ_DIR$\Debug\Obj\Port.pbd</file>
+      <file>$PROJ_DIR$\Debug\Obj\Det.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\Port.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\Port.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\Port_PBcfg.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\main.o</file>
+      <file>$TOOLKIT_DIR$\lib\m7M_tlv.a</file>
+      <file>$TOOLKIT_DIR$\inc\c\ycheck.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\yvals.h</file>
+      <file>$TOOLKIT_DIR$\lib\dl7M_tln.a</file>
+      <file>$TOOLKIT_DIR$\lib\rt7M_tl.a</file>
+      <file>$PROJ_DIR$\Debug\Obj\Det.o</file>
+      <file>$TOOLKIT_DIR$\inc\c\assert.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Product.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\xencoding_limits.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Defaults.h</file>
+      <file>$TOOLKIT_DIR$\config\linker\TexasInstruments\TM4C123GH6.icf</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Config_Normal.h</file>
+      <file>$TOOLKIT_DIR$\lib\shb_l.a</file>
+    </outputs>
+    <file>
+      <name>$PROJ_DIR$\main.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 15</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 23</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 30 25 26 33 35 31 32 16 10 6 1 11 3 4 7 14 13</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 30 25 26 33 35 31 32 16 10 6 1 11 3 4 7 14 13</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Port_PBcfg.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 8</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 22</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 10 6 1 11 3 4 7</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 10 6 1 11 3 4 7</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Det.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 19</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 29</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 14 6 1 11</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 14 6 1 11</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Port.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 21</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 20</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 10 6 1 11 3 4 7 12 14</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 10 6 1 11 3 4 7 12 14</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Exe\c.out</name>
+      <inputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 34 29 23 20 22 36 28 24 27</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 17</file>
+        </tool>
+      </outputs>
+    </file>
+  </configuration>
+  <configuration>
+    <name>Release</name>
+    <outputs/>
+    <forcedrebuild>
+      <name>[MULTI_TOOL]</name>
+      <tool>ILINK</tool>
+    </forcedrebuild>
+  </configuration>
+</project>
+
+
