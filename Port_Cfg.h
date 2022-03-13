@@ -28,6 +28,10 @@
 /* Pre-compile option for Version Info API */
 #define PORT_VERSION_INFO_API                (STD_ON)
 
+
+/* Pre_compile Option for SetPinDirection Api */
+#define PORT_SET_PIN_DIRECTION                (STD_ON)
+
 /* Number of the configured Dio Channels */
 #define PORT_CONFIGURED_CHANNLES             (43U)
 
